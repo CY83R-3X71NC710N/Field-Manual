@@ -9,6 +9,5 @@ https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X/ref=sr_1_21?key
 https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_24?keywords=field+manual&qid=1658654167&sr=8-24
 https://www.amazon.com/RTRM-Red-Team-Reference-Manual/dp/B08N37KDPQ/ref=sr_1_37?keywords=field+manual&qid=1658654167&sr=8-37
 
-ShadowSecurity Manual Downloaded and Printed.
-
+ShadowSecuritySuite Manual Downloaded and Printed.
 ```
