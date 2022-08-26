@@ -10,7 +10,7 @@ https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_24?keyw
 https://www.amazon.com/RTRM-Red-Team-Reference-Manual/dp/B08N37KDPQ/ref=sr_1_37?keywords=field+manual&qid=1658654167&sr=8-37
 
 https://www.amazon.com/Websters-World-Portable-Dictionary-Second/dp/0764564919/ref=sr_1_3?crid=11WKCU72XVOT0&keywords=portable+dictionary&qid=1661491963&sprefix=portable+dictionary%2Caps%2C195&sr=8-3
-https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A00460701KOGKSPQFST5R&url=%2FWebsters-All-One-Dictionary-Thesaurus%2Fdp%2F1596951478%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dportable%2Bthesaurus%26qid%3D1661492000%26sprefix%3Dportable%2Bthesur%252Caps%252C95%26sr%3D8-2-spons%26psc%3D1&qualifier=1661492000&id=158846340849414&widgetName=sp_atf
+https://www.amazon.com/Websters-All-One-Dictionary-Thesaurus/dp/1596951478/ref=sr_1_2_sspa?keywords=portable+thesaurus&qid=1661492000&sprefix=portable+thesur%2Caps%2C95&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVzE1R1cxWkpLSkkmZW5jcnlwdGVkSWQ9QTA4NTcyNTMzNTJVUzZJQjdNM0lNJmVuY3J5cHRlZEFkSWQ9QTAwNDYwNzAxS09HS1NQUUZTVDVSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 
 
 ShadowSecuritySuite Manual Downloaded and Printed.
